@@ -9,5 +9,5 @@
 
 <h4> 效果演示</h4>
 
-![Alt](https://img-blog.csdnimg.cn/20190415222008683.gif)
+![](demo.gif)
 
